@@ -32,11 +32,11 @@ module.exports = {
           }
         ],
         externalLinks: [
-          /*{
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
-          },
           {
+            name: `Instagram`,
+            url: `https://www.instagram.com/anjo_neo/`,
+          },
+          /*{
             name: `Homepage`,
             url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
           },*/
