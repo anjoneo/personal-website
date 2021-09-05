@@ -8,7 +8,7 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `Anjo Genow - Personal Website`,
   },
   plugins: [
     {
@@ -24,16 +24,20 @@ module.exports = {
             title: `About`,
             slug: `/about`,
           },
+          {
+            title: `Impossible List`,
+            slug: `/impossible-list`,
+          }
         ],
         externalLinks: [
-          {
+          /*{
             name: `Twitter`,
             url: `https://twitter.com/lekoarts_de`,
           },
           {
             name: `Homepage`,
             url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
-          },
+          },*/
         ],
       },
     },
@@ -64,9 +68,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Anjo Genow - Personal Website`,
+        short_name: `Anjo Genow`,
+        description: `Personal website and blog of Anjo Genow`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
@@ -132,7 +136,7 @@ module.exports = {
               }
             `,
             output: `rss.xml`,
-            title: `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog`,
+            title: `Anjo Genow - Personal Website`,
           },
         ],
       },
