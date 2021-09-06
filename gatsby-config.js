@@ -27,10 +27,10 @@ module.exports = {
             title: `About`,
             slug: `/about`,
           },
-          {
-            title: `Impossible List`,
-            slug: `/impossible-list`,
-          }
+          // {
+          //   title: `Impossible List`,
+          //   slug: `/impossible-list`,
+          // }
         ],
         externalLinks: [
           {
