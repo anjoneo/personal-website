@@ -37,10 +37,10 @@ module.exports = {
             name: `Instagram`,
             url: `https://www.instagram.com/anjo_neo/`,
           },
-          /*{
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
-          },*/
+          {
+            name: `Twitter`,
+            url: `https://www.twitter.com/anjo_neo/`,
+          },
         ],
       },
     },
