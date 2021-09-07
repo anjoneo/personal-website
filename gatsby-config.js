@@ -27,10 +27,7 @@ module.exports = {
             title: `About`,
             slug: `/about`,
           },
-          // {
-          //   title: `Impossible List`,
-          //   slug: `/impossible-list`,
-          // }
+          
         ],
         externalLinks: [
           {
@@ -40,6 +37,10 @@ module.exports = {
           {
             name: `Twitter`,
             url: `https://www.twitter.com/anjo_neo/`,
+          },
+          {
+            name: `Linkedin`,
+            url: `https://www.linkedin.com/in/anjogenow/`,
           },
         ],
       },
