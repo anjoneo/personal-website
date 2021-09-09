@@ -31,20 +31,11 @@ module.exports = {
             title: `Books`,
             slug: `/books`,
           },
-          
         ],
         externalLinks: [
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/anjo_neo/`,
-          },
-          {
-            name: `Twitter`,
-            url: `https://www.twitter.com/anjo_neo/`,
-          },
-          {
-            name: `Linkedin`,
-            url: `https://www.linkedin.com/in/anjogenow/`,
+            name: `Linktree`,
+            url: `https://anjoneo.github.io/linktree/`,
           },
         ],
       },
